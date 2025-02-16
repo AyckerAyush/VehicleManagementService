@@ -1,4 +1,4 @@
-package com.aycker.vehicleManager.Vehilcle;
+package com.aycker.vehicleManager.model;
 
 public interface IVehicle {
     Boolean isBooked();
