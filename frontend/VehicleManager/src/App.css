@@ -1,0 +1,28 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+form {
+  margin-top: 20px;
+}
+
+input {
+  padding: 5px;
+  margin-right: 10px;
+}
+
+h2 {
+  color: #333;
+}
+
+h1 {
+  color: #2c3e50;
+}

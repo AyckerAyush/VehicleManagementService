@@ -1,5 +1,8 @@
 package com.aycker.vehicleManager.model;
 
+import com.fasterxml.jackson.annotation.JsonTypeInfo;
+
+
 public interface IVehicle {
     Boolean isBooked();
     Double remainingDistance();

@@ -17,6 +17,7 @@ public class VehicleAdditionService {
     VehicleRepo vehicleRepo;
     public boolean addvehicle(Vehicle vehicle){
         try {
+            System.out.println("entered");
             vehicleRepo.save(vehicle);
         }
         catch (Exception e){
